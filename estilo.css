@@ -9,7 +9,7 @@ body {
 
 .index {
     flex: 1;
-    background-image: url(pedro.jpg);
+    background:#000;
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;
